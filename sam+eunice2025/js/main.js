@@ -22,7 +22,7 @@
         paddingBottom: '0',
         verticalCentered: true,
         showActiveTooltip: true,
-        navigationTooltips: ['HOME', 'OUR STORY', 'GALLERY', 'WISHES', 'THE WEEDING', 'DIRECTION', 'DAYS LEFT','SHARED LOVE'],
+        navigationTooltips: ['HOME', 'OUR STORY', 'GALLERY', 'WISHES', 'THE WEDDING', 'DIRECTION', 'DAYS LEFT','SHARED LOVE'],
         sectionsColor: ['#ffffff']
     });
 

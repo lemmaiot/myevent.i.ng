@@ -1180,3 +1180,21 @@ h6 {
     font-size: 12px;
     margin-bottom: 0;
 }
+
+/* Override Fullpage default navigation position */
+.fp-left {
+    top: 80px !important;     /* Distance from top */
+    left: 20px !important;    /* Distance from left */
+    bottom: auto !important;
+    transform: none !important;
+}
+
+/* Optional: make it horizontal instead of vertical */
+.fp-left ul {
+    flex-direction: row !important;
+}
+
+/* Optional: style bullet spacing if horizontal */
+.fp-left ul li {
+    margin:0 10px !important;
+}
